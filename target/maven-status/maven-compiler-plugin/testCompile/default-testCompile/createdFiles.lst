@@ -1,0 +1,3 @@
+org/kie/kproject/util/Utils.class
+org/kie/kproject/util/MockEventListener.class
+org/kie/kproject/KProjectTest.class

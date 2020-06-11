@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fd370b2c-9835-43fb-be3e-204563c86a6c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1dAMiOgqNQS5Bp5amUDjCmUUa33" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RunManager" selected="JUnit.KProjectTest">
+    <configuration name="KProjectTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kie-maven-plugin-example" />
+      <option name="PACKAGE_NAME" value="org.kie.kproject" />
+      <option name="MAIN_CLASS_NAME" value="org.kie.kproject.KProjectTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KProjectTest.testKJar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kie-maven-plugin-example" />
+      <option name="PACKAGE_NAME" value="org.kie.kproject" />
+      <option name="MAIN_CLASS_NAME" value="org.kie.kproject.KProjectTest" />
+      <option name="METHOD_NAME" value="testKJar" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.KProjectTest" />
+        <item itemvalue="JUnit.KProjectTest.testKJar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd370b2c-9835-43fb-be3e-204563c86a6c" name="Default Changelist" comment="" />
+      <created>1591863570228</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591863570228</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1954" height="321" key="GridCell.Tab.0.bottom" timestamp="1591863970942">
+      <screen x="0" y="23" width="2560" height="1366" />
+    </state>
+    <state width="1954" height="321" key="GridCell.Tab.0.bottom/0.23.2560.1366@0.23.2560.1366" timestamp="1591863970942" />
+    <state width="1954" height="321" key="GridCell.Tab.0.center" timestamp="1591863970941">
+      <screen x="0" y="23" width="2560" height="1366" />
+    </state>
+    <state width="1954" height="321" key="GridCell.Tab.0.center/0.23.2560.1366@0.23.2560.1366" timestamp="1591863970941" />
+    <state width="1954" height="321" key="GridCell.Tab.0.left" timestamp="1591863970941">
+      <screen x="0" y="23" width="2560" height="1366" />
+    </state>
+    <state width="1954" height="321" key="GridCell.Tab.0.left/0.23.2560.1366@0.23.2560.1366" timestamp="1591863970941" />
+    <state width="1954" height="321" key="GridCell.Tab.0.right" timestamp="1591863970942">
+      <screen x="0" y="23" width="2560" height="1366" />
+    </state>
+    <state width="1954" height="321" key="GridCell.Tab.0.right/0.23.2560.1366@0.23.2560.1366" timestamp="1591863970942" />
+  </component>
+</project>
