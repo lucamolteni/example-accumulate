@@ -15,7 +15,9 @@
 
 package org.kie.firealarm
 
-import accumulate org.kie.firealarm.TestFunction tf
+import org.kie.firealarm.func.*;
+
+import accumulate TestFunction tf
 
 import java.util.*
 import org.kie.firealarm.*

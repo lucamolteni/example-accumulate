@@ -1,4 +1,4 @@
-package org.kie.firealarm;
+package org.kie.firealarm.func;
 
 import java.io.IOException;
 import java.io.ObjectInput;
