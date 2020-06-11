@@ -25,5 +25,4 @@
 hs_err_pid*
 
 .idea/vcs.xml
-target/generated-sources/annotations/
-target/generated-test-sources/
+target/
