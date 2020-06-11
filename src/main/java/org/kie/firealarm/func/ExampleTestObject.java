@@ -7,4 +7,6 @@ import lombok.Data;
 @Data
 public class ExampleTestObject implements Serializable {
 
+    private String field1;
+
 }
