@@ -14,7 +14,7 @@
   </properties>
 
   <groupId>org.kie</groupId>
-  <artifactId>kie-maven-plugin-example</artifactId>
+  <artifactId>prova2</artifactId>
 
   <packaging>kjar</packaging>
 
