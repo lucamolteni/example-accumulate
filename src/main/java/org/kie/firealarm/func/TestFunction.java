@@ -3,35 +3,34 @@ package org.kie.firealarm.func;
 import java.io.IOException;
 import java.io.ObjectInput;
 import java.io.ObjectOutput;
-import java.io.Serializable;
 
 import org.kie.api.runtime.rule.AccumulateFunction;
 
-public class TestFunction implements AccumulateFunction<Serializable> {
+public class TestFunction implements AccumulateFunction<ExampleTestObject> {
 
     @Override
     public void readExternal(final ObjectInput in) {
     }
 
     @Override
-    public Serializable createContext() {
+    public ExampleTestObject createContext() {
         return null;
     }
 
     @Override
-    public void init(final Serializable context) {
+    public void init(final ExampleTestObject context) {
     }
 
     @Override
-    public void accumulate(final Serializable context, final Object value) {
+    public void accumulate(final ExampleTestObject context, final Object value) {
     }
 
     @Override
-    public void reverse(final Serializable context, final Object value) {
+    public void reverse(final ExampleTestObject context, final Object value) {
     }
 
     @Override
-    public Object getResult(final Serializable context) {
+    public Object getResult(final ExampleTestObject context) {
         return 1;
     }
 

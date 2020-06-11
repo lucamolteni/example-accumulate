@@ -25,7 +25,7 @@ import org.kie.firealarm.*
 rule "rule accumulate"
 when
     $fire: Fire($room : room)
-    accumulate( $f : Fire(), $result : tf( $f ) )
+    accumulate( $f : Fire(), $result : tf( new ExampleTestObject() ) )
 then
     System.out.println( "Fire in room " + $room.getName() + " Result: " + $result );
 end
